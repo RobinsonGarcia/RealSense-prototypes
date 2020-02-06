@@ -11,8 +11,6 @@ import cv2
 import os
 
 
-
-
 """Modified by Robinson Garcia"""
 print(""" 
 AUTHOR: Robinson Garcia  \n
